@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.divScroll::-webkit-scrollbar {
+  display: none;
+}
