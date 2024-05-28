@@ -10,7 +10,7 @@ const App = () => {
   return (
     <div
       className={`${
-        dark ? "bg-[#6bf76b]" : "bg-[#ea84f6]"
+        dark ? "bg-[#74dff8]" : "bg-[#ea84f6]"
       } h-[100vh] overflow-hidden`}
     >
       <Navbar />

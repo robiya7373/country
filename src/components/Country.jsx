@@ -98,7 +98,7 @@ const Country = ({
             }}
           >
             <MenuItem value="">
-              <em>All Regions</em>
+              <p>All Regions</p>
             </MenuItem>
             {categories.map((item) => (
               <MenuItem
